@@ -1,0 +1,6 @@
+@EncurtaAI.API_HostAddress = http://localhost:5001
+
+GET {{EncurtaAI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
