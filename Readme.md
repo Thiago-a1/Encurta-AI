@@ -14,6 +14,14 @@ Saiba mais: [Encurtador de URLs](https://github.com/backend-br/desafios/blob/mas
 
 ---
 
+## ⚙️ Passo a passo
+
+#### 1 - Clone este repositório.
+
+#### 2 - Execute `dotnet watch run` no terminal dentro da pasta da API.
+
+#### 3 - O Swagger ira abrir no navegador.
+
 ## 📨 Requisições
 
 | Método | URL                            | Descrição                       | Corpo da requisição     |
